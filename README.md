@@ -1,2 +1,2 @@
 # Pixie-Chain
-PixelartとBlockchainの融合
+Pixelart
